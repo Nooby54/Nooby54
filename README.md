@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Nooby54/Nooby54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Daniel Godoy**, a passionate developer eager to learn and grow in the world of coding. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Dragon Ball VideoGame](https://github.com/Nooby54/Proyecto-Final)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **C++ and coming soon Jave**
+
+- 🧠 I am focused on enhancing my skills in programming and software development. While I do not have a formal company affiliation yet, I am actively working on several projects to expand my knowledge and experience.
+
+### Languages and Tools
+
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+
+## ASCII Art
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠖⠛⠉⠉⠉⠙⠲⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢿⣿⣧⠀⠀⠀⠀⠀⢀⣶⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣯⣸⠿⢋⢧⡀⠀⠀⣰⡟⣡⣶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⢶⣽⣦⣴⠏⣸⠛⡉⠙⠻⣿⣤⡀⠀⠀⠀⠀⠀⠀⣀⣽⡀⠀⠀⠀⢠⣾⣿⣷⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣏⣰⣿⢀⣚⣛⣻⣶⣿⣷⣄⠀⣀⣤⣤⣾⣿⠿⢿⣀⣠⠴⣿⣿⣿⣿⠂⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠉⠻⢿⣼⣿⣇⣹⣿⠟⠋⠉⢻⣿⣿⣿⡿⣄⠀⢈⡴⠋⠉⠉⠉⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠀⢀⠀⠀⠀⠀⢉⣩⠙⠆⠀⠀⠀⠀⠙⠿⢽⣓⡛⠑⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⢸⣾⣶⣶⣶⣿⣯⣴⣷⣄⠀⠀⠀⠀⠀⢰⡄⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣼⢤⠶⢾⡿⣿⣄⠀⠈⠉⠙⠻⠿⢿⣶⠶⠶⠛⠛⠿⣦⣄⠀⢘⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣄⣀⢀⣀⣴⣿⡇⢸⠀⢸⡇⠸⣯⠛⠶⢤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⢈⢿⡇⠸⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⠉⠻⣿⣿⣿⣿⣿⣧⠸⣄⢀⣿⠛⠛⢷⡝⠲⢤⡈⠉⠑⠒⠒⠒⠒⠒⠛⠉⠘⠃⢰⣿⣦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡴⠚⠁⠀⠀⠀⠀⠀⠛⣿⣿⣿⣿⣿⣧⠙⠚⣿⡆⠀⠈⢷⡐⠆⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣶⣶⣶⣶⣦⡀
+⠀⠀⠀⠀⠀⢠⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣷⣴⣿⠇⠀⠀⢸⣇⣀⣀⡴⠂⠉⠀⠠⣄⠈⡆⠀⢀⣴⣿⣿⣿⣿⣿⠛⠁⠀⠈⠁
+⠀⠀⠀⠀⠀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠋⠉⠁⠀⠀⠀⠀⠀⣀⣬⠿⠁⢠⣾⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠀⣴⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⣹⣿⣿⣏⣿⣿⡅⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⠟⠋⣥⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⢻⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣰⠇⠀⠀⠀⠀⠀⣀⣀⠀⢀⡰⠞⠛⠉⠁⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣿⣿⣤⣿⣿⣧⡤⠀⠀⠀⠀⠀⠀
+⠀⠀⢠⡏⠀⠀⢀⡠⠀⠈⠁⠀⠈⠁⠀⠀⠀⠀⠀⠀⠐⠀⢹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣟⣷⡆⠀⠀⠀⠀⠀
+⠀⠀⣼⠁⠀⠠⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⡿⠃⠀⡀⠀⠀⠀⠀
+⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡚⠖⠀⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣴⣶⡟⠛⠛⠿⠿⠿⠿⠖⠒⠛⠓⠦⣄⡀
+⣼⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⠐⠀⢿⡀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣴⠿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉
+⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣄⣀⣤⣶⡾⠿⠟⠿⣏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠹⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢠⣄⣠⡄⢢⣰⡜⠿⣿⠁⠉⠀⠀⠀⢸⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠈⠁⡾⣟⣿⡶⣌⡞⠀⠀⠀⠀⢸⣿⠂⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁⠀⠉⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
