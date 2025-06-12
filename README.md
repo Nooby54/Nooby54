@@ -4,7 +4,7 @@ I'm **Daniel Godoy**, a passionate developer eager to learn and grow in the worl
 
 - 🔭 I’m currently working on [Dragon Ball VideoGame](https://github.com/Nooby54/Proyecto-Final)
 
-- 🌱 I’m currently learning **C++ and coming soon Jave**
+- 🌱 I’m currently learning **C++ and coming soon Java**
 
 - 🧠 I am focused on enhancing my skills in programming and software development. While I do not have a formal company affiliation yet, I am actively working on several projects to expand my knowledge and experience.
 
