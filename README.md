@@ -2,7 +2,7 @@
 
 I'm **Daniel Godoy**, a passionate developer eager to learn and grow in the world of coding. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on [Dragon Ball VideoGame](https://github.com/Nooby54/Proyecto-Final)
+- 🔭 I recently worked on [Dragon Ball VideoGame](https://github.com/Nooby54/Proyecto-Final)
 
 - 🌱 I’m currently learning **C++ and coming soon Java**
 
